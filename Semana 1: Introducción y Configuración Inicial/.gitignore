@@ -1,0 +1,22 @@
+# Archivos de usuario
+.vs/
+.vscode/
+.idea/
+
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Archivos de configuración de Visual Studio
+.vs2019/
+.vs2017/
+
+# Archivos de paquetes NuGet
+packages/
+
+# Otros archivos de sistema
+*.log
