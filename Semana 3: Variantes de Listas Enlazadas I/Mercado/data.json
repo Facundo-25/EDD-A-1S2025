@@ -1,0 +1,92 @@
+[
+    {
+        "Id": 1,
+        "NombreLocal": "Supermercado La Economía",
+        "NombrePropietario": "Juan Pérez",
+        "Direccion": "Calle 10 # 25-30, Bogotá"
+    },
+    {
+        "Id": 2,
+        "NombreLocal": "Farmacia La Salud",
+        "NombrePropietario": "María Gómez",
+        "Direccion": "Avenida 5 # 12-45, Medellín"
+    },
+    {
+        "Id": 3,
+        "NombreLocal": "Tienda de Ropa Moda Joven",
+        "NombrePropietario": "Carlos Rodríguez",
+        "Direccion": "Carrera 7 # 40-20, Cali"
+    },
+    {
+        "Id": 4,
+        "NombreLocal": "Cafetería El Aroma",
+        "NombrePropietario": "Laura Martínez",
+        "Direccion": "Calle 20 # 15-10, Barranquilla"
+    },
+    {
+        "Id": 5,
+        "NombreLocal": "Ferretería El Tornillo",
+        "NombrePropietario": "Pedro Sánchez",
+        "Direccion": "Avenida 3 # 8-50, Cartagena"
+    },
+    {
+        "Id": 6,
+        "NombreLocal": "Panadería Dulce Hogar",
+        "NombrePropietario": "Ana López",
+        "Direccion": "Calle 15 # 30-25, Bucaramanga"
+    },
+    {
+        "Id": 7,
+        "NombreLocal": "Peluquería Estilo Único",
+        "NombrePropietario": "Luisa Ramírez",
+        "Direccion": "Carrera 10 # 22-15, Pereira"
+    },
+    {
+        "Id": 8,
+        "NombreLocal": "Tienda de Mascotas Peludos",
+        "NombrePropietario": "Andrés Castro",
+        "Direccion": "Calle 12 # 18-40, Cúcuta"
+    },
+    {
+        "Id": 9,
+        "NombreLocal": "Juguetería Mundo Infantil",
+        "NombrePropietario": "Sofía Gutiérrez",
+        "Direccion": "Avenida 8 # 5-12, Ibagué"
+    },
+    {
+        "Id": 10,
+        "NombreLocal": "Restaurante Sabor Casero",
+        "NombrePropietario": "Diego Morales",
+        "Direccion": "Carrera 14 # 10-30, Manizales"
+    },
+    {
+        "Id": 11,
+        "NombreLocal": "Óptica Visión Clara",
+        "NombrePropietario": "Carmen Vargas",
+        "Direccion": "Calle 25 # 7-18, Pasto"
+    },
+    {
+        "Id": 12,
+        "NombreLocal": "Librería El Saber",
+        "NombrePropietario": "Jorge Herrera",
+        "Direccion": "Avenida 2 # 9-22, Neiva"
+    },
+    {
+        "Id": 13,
+        "NombreLocal": "Floristería Jardín Encantado",
+        "NombrePropietario": "Isabel Torres",
+        "Direccion": "Carrera 5 # 12-14, Villavicencio"
+    },
+    {
+        "Id": 14,
+        "NombreLocal": "Carnicería El Rancherito",
+        "NombrePropietario": "Oscar Díaz",
+        "Direccion": "Calle 30 # 20-10, Santa Marta"
+    },
+    {
+        "Id": 15,
+        "NombreLocal": "Electrodomésticos La Oferta",
+        "NombrePropietario": "Gabriela Ruiz",
+        "Direccion": "Avenida 7 # 14-35, Montería"
+    }
+]
