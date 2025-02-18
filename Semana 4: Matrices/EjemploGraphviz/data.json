@@ -1,0 +1,103 @@
+[
+    {
+      "Id": 1,
+      "Producto": "Zanahoria",
+      "Precio": 1.5
+    },
+    {
+      "Id": 2,
+      "Producto": "Pimiento",
+      "Precio": 2.0
+    },
+    {
+      "Id": 3,
+      "Producto": "Lechuga",
+      "Precio": 1.2
+    },
+    {
+      "Id": 4,
+      "Producto": "Pepino",
+      "Precio": 1.0
+    },
+    {
+      "Id": 5,
+      "Producto": "Tomate",
+      "Precio": 2.5
+    },
+    {
+      "Id": 6,
+      "Producto": "Brócoli",
+      "Precio": 3.0
+    },
+    {
+      "Id": 7,
+      "Producto": "Espinaca",
+      "Precio": 1.8
+    },
+    {
+      "Id": 8,
+      "Producto": "Cebolla",
+      "Precio": 1.4
+    },
+    {
+      "Id": 9,
+      "Producto": "Ajo",
+      "Precio": 0.8
+    },
+    {
+      "Id": 10,
+      "Producto": "Coliflor",
+      "Precio": 3.5
+    },
+    {
+      "Id": 11,
+      "Producto": "Apio",
+      "Precio": 2.2
+    },
+    {
+      "Id": 12,
+      "Producto": "Berenjena",
+      "Precio": 2.0
+    },
+    {
+      "Id": 13,
+      "Producto": "Chícharo",
+      "Precio": 1.6
+    },
+    {
+      "Id": 14,
+      "Producto": "Calabacín",
+      "Precio": 1.7
+    },
+    {
+      "Id": 15,
+      "Producto": "Perejil",
+      "Precio": 1.1
+    },
+    {
+      "Id": 16,
+      "Producto": "Papas",
+      "Precio": 1.3
+    },
+    {
+      "Id": 17,
+      "Producto": "Maíz",
+      "Precio": 2.1
+    },
+    {
+      "Id": 18,
+      "Producto": "Nabo",
+      "Precio": 1.4
+    },
+    {
+      "Id": 19,
+      "Producto": "Chícharos verdes",
+      "Precio": 1.9
+    },
+    {
+      "Id": 20,
+      "Producto": "Alcachofa",
+      "Precio": 3.2
+    }
+  ]
+  
