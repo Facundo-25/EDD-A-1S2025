@@ -1,0 +1,14 @@
+/home/sfmx/Downloads/row-major/bin/Debug/net9.0/row-major
+/home/sfmx/Downloads/row-major/bin/Debug/net9.0/row-major.deps.json
+/home/sfmx/Downloads/row-major/bin/Debug/net9.0/row-major.runtimeconfig.json
+/home/sfmx/Downloads/row-major/bin/Debug/net9.0/row-major.dll
+/home/sfmx/Downloads/row-major/bin/Debug/net9.0/row-major.pdb
+/home/sfmx/Downloads/row-major/obj/Debug/net9.0/row-major.GeneratedMSBuildEditorConfig.editorconfig
+/home/sfmx/Downloads/row-major/obj/Debug/net9.0/row-major.AssemblyInfoInputs.cache
+/home/sfmx/Downloads/row-major/obj/Debug/net9.0/row-major.AssemblyInfo.cs
+/home/sfmx/Downloads/row-major/obj/Debug/net9.0/row-major.csproj.CoreCompileInputs.cache
+/home/sfmx/Downloads/row-major/obj/Debug/net9.0/row-major.dll
+/home/sfmx/Downloads/row-major/obj/Debug/net9.0/refint/row-major.dll
+/home/sfmx/Downloads/row-major/obj/Debug/net9.0/row-major.pdb
+/home/sfmx/Downloads/row-major/obj/Debug/net9.0/row-major.genruntimeconfig.cache
+/home/sfmx/Downloads/row-major/obj/Debug/net9.0/ref/row-major.dll

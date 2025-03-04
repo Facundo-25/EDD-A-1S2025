@@ -1,0 +1,16 @@
+digraph G {
+    node [shape=record];
+    rankdir=TB;
+    subgraph cluster_0 {
+        label = "Pila";
+        n0 [label = "{<data> ID: 13 
+ Producto: Chícharo 
+ Precio: $1.60 
+ Siguiente: }"];
+        n1 [label = "{<data> ID: 8 
+ Producto: Cebolla 
+ Precio: $1.40 
+ Siguiente: }"];
+        n0 -> n1;
+    }
+}

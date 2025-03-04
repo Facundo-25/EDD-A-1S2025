@@ -1,0 +1,46 @@
+digraph G {
+    node [shape=record];
+    rankdir=LR;
+    subgraph cluster_0 {
+        label = "Lista Simple";
+        n0 [label = "{<data> ID: 1 \n Producto: Zanahoria \n Precio: $1.50 \n Siguiente: }"];
+        n1 [label = "{<data> ID: 2 \n Producto: Pimiento \n Precio: $2.00 \n Siguiente: }"];
+        n2 [label = "{<data> ID: 3 \n Producto: Lechuga \n Precio: $1.20 \n Siguiente: }"];
+        n3 [label = "{<data> ID: 4 \n Producto: Pepino \n Precio: $1.00 \n Siguiente: }"];
+        n4 [label = "{<data> ID: 5 \n Producto: Tomate \n Precio: $2.50 \n Siguiente: }"];
+        n5 [label = "{<data> ID: 6 \n Producto: Brócoli \n Precio: $3.00 \n Siguiente: }"];
+        n6 [label = "{<data> ID: 7 \n Producto: Espinaca \n Precio: $1.80 \n Siguiente: }"];
+        n7 [label = "{<data> ID: 8 \n Producto: Cebolla \n Precio: $1.40 \n Siguiente: }"];
+        n8 [label = "{<data> ID: 9 \n Producto: Ajo \n Precio: $0.80 \n Siguiente: }"];
+        n9 [label = "{<data> ID: 10 \n Producto: Coliflor \n Precio: $3.50 \n Siguiente: }"];
+        n10 [label = "{<data> ID: 11 \n Producto: Apio \n Precio: $2.20 \n Siguiente: }"];
+        n11 [label = "{<data> ID: 12 \n Producto: Berenjena \n Precio: $2.00 \n Siguiente: }"];
+        n12 [label = "{<data> ID: 13 \n Producto: Chícharo \n Precio: $1.60 \n Siguiente: }"];
+        n13 [label = "{<data> ID: 14 \n Producto: Calabacín \n Precio: $1.70 \n Siguiente: }"];
+        n14 [label = "{<data> ID: 15 \n Producto: Perejil \n Precio: $1.10 \n Siguiente: }"];
+        n15 [label = "{<data> ID: 16 \n Producto: Papas \n Precio: $1.30 \n Siguiente: }"];
+        n16 [label = "{<data> ID: 17 \n Producto: Maíz \n Precio: $2.10 \n Siguiente: }"];
+        n17 [label = "{<data> ID: 18 \n Producto: Nabo \n Precio: $1.40 \n Siguiente: }"];
+        n18 [label = "{<data> ID: 19 \n Producto: Chícharos verdes \n Precio: $1.90 \n Siguiente: }"];
+        n19 [label = "{<data> ID: 20 \n Producto: Alcachofa \n Precio: $3.20 \n Siguiente: }"];
+        n0 -> n1;
+        n1 -> n2;
+        n2 -> n3;
+        n3 -> n4;
+        n4 -> n5;
+        n5 -> n6;
+        n6 -> n7;
+        n7 -> n8;
+        n8 -> n9;
+        n9 -> n10;
+        n10 -> n11;
+        n11 -> n12;
+        n12 -> n13;
+        n13 -> n14;
+        n14 -> n15;
+        n15 -> n16;
+        n16 -> n17;
+        n17 -> n18;
+        n18 -> n19;
+    }
+}
