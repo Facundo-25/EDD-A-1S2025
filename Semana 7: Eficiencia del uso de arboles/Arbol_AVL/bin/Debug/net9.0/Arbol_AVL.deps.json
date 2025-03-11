@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Arbol_AVL/1.0.0": {
+        "runtime": {
+          "Arbol_AVL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arbol_AVL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

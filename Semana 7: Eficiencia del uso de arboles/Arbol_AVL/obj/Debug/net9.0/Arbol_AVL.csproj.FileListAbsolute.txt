@@ -1,0 +1,14 @@
+/home/sfmx/Downloads/Arbol_AVL/bin/Debug/net9.0/Arbol_AVL
+/home/sfmx/Downloads/Arbol_AVL/bin/Debug/net9.0/Arbol_AVL.deps.json
+/home/sfmx/Downloads/Arbol_AVL/bin/Debug/net9.0/Arbol_AVL.runtimeconfig.json
+/home/sfmx/Downloads/Arbol_AVL/bin/Debug/net9.0/Arbol_AVL.dll
+/home/sfmx/Downloads/Arbol_AVL/bin/Debug/net9.0/Arbol_AVL.pdb
+/home/sfmx/Downloads/Arbol_AVL/obj/Debug/net9.0/Arbol_AVL.GeneratedMSBuildEditorConfig.editorconfig
+/home/sfmx/Downloads/Arbol_AVL/obj/Debug/net9.0/Arbol_AVL.AssemblyInfoInputs.cache
+/home/sfmx/Downloads/Arbol_AVL/obj/Debug/net9.0/Arbol_AVL.AssemblyInfo.cs
+/home/sfmx/Downloads/Arbol_AVL/obj/Debug/net9.0/Arbol_AVL.csproj.CoreCompileInputs.cache
+/home/sfmx/Downloads/Arbol_AVL/obj/Debug/net9.0/Arbol_AVL.dll
+/home/sfmx/Downloads/Arbol_AVL/obj/Debug/net9.0/refint/Arbol_AVL.dll
+/home/sfmx/Downloads/Arbol_AVL/obj/Debug/net9.0/Arbol_AVL.pdb
+/home/sfmx/Downloads/Arbol_AVL/obj/Debug/net9.0/Arbol_AVL.genruntimeconfig.cache
+/home/sfmx/Downloads/Arbol_AVL/obj/Debug/net9.0/ref/Arbol_AVL.dll

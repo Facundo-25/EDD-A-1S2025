@@ -1,0 +1,14 @@
+/home/sfmx/Downloads/Arbol_Binario/bin/Debug/net9.0/Arbol_Binario
+/home/sfmx/Downloads/Arbol_Binario/bin/Debug/net9.0/Arbol_Binario.deps.json
+/home/sfmx/Downloads/Arbol_Binario/bin/Debug/net9.0/Arbol_Binario.runtimeconfig.json
+/home/sfmx/Downloads/Arbol_Binario/bin/Debug/net9.0/Arbol_Binario.dll
+/home/sfmx/Downloads/Arbol_Binario/bin/Debug/net9.0/Arbol_Binario.pdb
+/home/sfmx/Downloads/Arbol_Binario/obj/Debug/net9.0/Arbol_Binario.GeneratedMSBuildEditorConfig.editorconfig
+/home/sfmx/Downloads/Arbol_Binario/obj/Debug/net9.0/Arbol_Binario.AssemblyInfoInputs.cache
+/home/sfmx/Downloads/Arbol_Binario/obj/Debug/net9.0/Arbol_Binario.AssemblyInfo.cs
+/home/sfmx/Downloads/Arbol_Binario/obj/Debug/net9.0/Arbol_Binario.csproj.CoreCompileInputs.cache
+/home/sfmx/Downloads/Arbol_Binario/obj/Debug/net9.0/Arbol_Binario.dll
+/home/sfmx/Downloads/Arbol_Binario/obj/Debug/net9.0/refint/Arbol_Binario.dll
+/home/sfmx/Downloads/Arbol_Binario/obj/Debug/net9.0/Arbol_Binario.pdb
+/home/sfmx/Downloads/Arbol_Binario/obj/Debug/net9.0/Arbol_Binario.genruntimeconfig.cache
+/home/sfmx/Downloads/Arbol_Binario/obj/Debug/net9.0/ref/Arbol_Binario.dll

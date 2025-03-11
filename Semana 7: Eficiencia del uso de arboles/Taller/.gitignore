@@ -1,0 +1,28 @@
+# Archivos de compilación
+/bin/
+/obj/
+
+# Archivos de configuración específicos de NuGet
+*.nuget.*  
+project.assets.json
+project.nuget.cache
+
+# Archivos de configuración del IDE
+.vs/
+.vscode/
+
+# Archivos generados por Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos de reportes generados
+/reports/*.dot
+/reports/*.png
+
+# Archivos específicos de otros entornos (puedes añadir más si tienes otros específicos)
