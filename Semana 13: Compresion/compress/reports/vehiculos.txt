@@ -1,0 +1,5 @@
+1,123456,Toyota,Corolla,ABC123
+2,654321,Honda,Civic,XYZ789
+3,789012,Ford,Focus,LMN456
+4,345678,Chevrolet,Malibu,DEF321
+5,901234,Nissan,Altima,GHI654
